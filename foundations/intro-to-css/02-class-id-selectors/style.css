@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd{
+    font-style: Verdana, "DejaVu Sans", "sans-serif";
+    background: rgb(232, 161, 245);
+}
+
+#evenone{
+    color: rgb(16, 50, 243);
+    font-size: 32px;
+}
+
+.odd.two{
+    font-size: 24px;
+}
+
+#eventwo{
+    background: rgb(86, 255, 109);
+    font-weight: bold;
+    font-size: 24px;
+}
